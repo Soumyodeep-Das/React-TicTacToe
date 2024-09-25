@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Play The Game
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is deployed on github itself [TicTacToe](https://soumyodeep-das.github.io/React-TicTacToe/).
 
 ## Available Scripts
 
