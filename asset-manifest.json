@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-TicTacToe/static/css/main.943f8cee.css",
+    "main.js": "/React-TicTacToe/static/js/main.b009f9df.js",
+    "static/media/Circle.png": "/React-TicTacToe/static/media/Circle.9a42028bea8546b96751.png",
+    "static/media/Cross.png": "/React-TicTacToe/static/media/Cross.d2ec766a7da996ec6045.png",
+    "index.html": "/React-TicTacToe/index.html",
+    "main.943f8cee.css.map": "/React-TicTacToe/static/css/main.943f8cee.css.map",
+    "main.b009f9df.js.map": "/React-TicTacToe/static/js/main.b009f9df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943f8cee.css",
+    "static/js/main.b009f9df.js"
+  ]
+}
